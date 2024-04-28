@@ -29,6 +29,7 @@
   <li>World Map Visualization</li>
   <li>Line Plots</li>
   <li>Box Plots</li>
+  <li>Windrose Plots</li>
 </ul>
  
 
