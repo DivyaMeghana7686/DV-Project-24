@@ -8,7 +8,6 @@ Climate Change Analysis
 - [@Prasanthi Bikkavolu](https://github.com/Prasanthi1201)
 
 
-Climate change analysis 
 
 
 
