@@ -20,7 +20,7 @@
   <li>Open Metro API data </li>
 </ol>
 
-## Visualixations
+## Visualizations
 <p> We utilized a variety of visualization techniques to present the climatic changes effectively:</p>
 <ul>
   <li>Scatterplots</li>
