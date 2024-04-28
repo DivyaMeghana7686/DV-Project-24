@@ -17,6 +17,7 @@
   <li>Global Land Temperatures By State</li>
   <li>Global Temperatures</li>
   <li>Precipitation</li>
+  <li>Open Metro API data </li>
 </ol>
 
 ## Visualixations
@@ -54,8 +55,9 @@ Interactive Dashboard: A user-friendly R-Shiny dashboard providing an interactiv
 - [@Prasanthi Bikkavolu](https://github.com/Prasanthi1201)
 
 ## References
-https://berkeleyearth.org/data/
-
+- https://berkeleyearth.org/data/
+- https://open-meteo.com/en/docs/historical-weather-api
+  
 
 
 
