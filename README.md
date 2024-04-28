@@ -54,9 +54,7 @@ Interactive Dashboard: A user-friendly R-Shiny dashboard providing an interactiv
 - [@Prasanthi Bikkavolu](https://github.com/Prasanthi1201)
 
 ## References
-<ul>
-  <li><a href="https://berkeleyearth.org/data/"></li>
-</ul>
+<a href="https://berkeleyearth.org/data/">
 
 
 
